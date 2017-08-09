@@ -1,0 +1,4 @@
+#Este é o primeiro exercicio da lista 1 /Python para Zumbis Prof.: Masanori
+n1 = int (input("Digite o primeiro numero: "))
+n2 = int (input("Digite o segundo numero: "))
+print (n1 + n2)
